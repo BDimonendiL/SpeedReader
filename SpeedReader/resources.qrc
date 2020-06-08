@@ -1,2 +1,7 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/images">
+        <file>C:/Users/fenik/Downloads/editing.png</file>
+        <file>C:/Users/fenik/Downloads/history.png</file>
+        <file>C:/Users/fenik/Downloads/settings.png</file>
+    </qresource>
+</RCC>
