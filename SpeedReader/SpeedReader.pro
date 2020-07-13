@@ -16,14 +16,23 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    editingwindow.cpp \
+    historywindow.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    settingswindow.cpp
 
 HEADERS += \
-    mainwindow.h
+    editingwindow.h \
+    historywindow.h \
+    mainwindow.h \
+    settingswindow.h
 
 FORMS += \
-    mainwindow.ui
+    editingwindow.ui \
+    historywindow.ui \
+    mainwindow.ui \
+    settingswindow.ui
 
 TRANSLATIONS += \
     SpeedReader_en_GB.ts

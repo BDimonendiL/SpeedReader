@@ -3,5 +3,11 @@
         <file>editing32.png</file>
         <file>history32.png</file>
         <file>settings32.png</file>
+        <file>controls/back32.png</file>
+        <file>controls/forward32.png</file>
+        <file>controls/next32.png</file>
+        <file>controls/pause32.png</file>
+        <file>controls/play32.png</file>
+        <file>controls/rewind32.png</file>
     </qresource>
 </RCC>
